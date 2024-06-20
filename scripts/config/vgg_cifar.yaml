@@ -1,0 +1,6 @@
+MODEL:
+  TYPE: plasticity
+  NAME: "vgg"
+  NUM_CLASSES: 10
+DATA:
+  NAME: "cifar"

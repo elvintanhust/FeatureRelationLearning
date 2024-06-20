@@ -1,0 +1,14 @@
+Thu 20 Jun 2024 09:29:29 INFO ***********************************
+Thu 20 Jun 2024 09:29:29 INFO [SEED 48]]
+Thu 20 Jun 2024 09:29:29 INFO [update_freq 3]]
+Thu 20 Jun 2024 09:29:29 INFO [image_cnt 128]]
+Thu 20 Jun 2024 09:29:29 INFO [sparsity 0.5]]
+Thu 20 Jun 2024 09:29:29 INFO [update_epoch 120]]
+Thu 20 Jun 2024 09:31:19 INFO ***********************************
+Thu 20 Jun 2024 09:31:19 INFO [SEED 48]]
+Thu 20 Jun 2024 09:31:19 INFO [update_freq 3]]
+Thu 20 Jun 2024 09:31:19 INFO [image_cnt 128]]
+Thu 20 Jun 2024 09:31:19 INFO [sparsity 0.5]]
+Thu 20 Jun 2024 09:31:19 INFO [update_epoch 120]]
+Thu 20 Jun 2024 13:26:02 INFO [accuracy 94.5000]][max_acc 94.5900]]
+Thu 20 Jun 2024 13:26:02 INFO ***********************************

@@ -1,0 +1,6 @@
+MODEL:
+  TYPE: plasticity
+  NAME: "resnet"
+  NUM_CLASSES: 10
+DATA:
+  NAME: "cifar"
